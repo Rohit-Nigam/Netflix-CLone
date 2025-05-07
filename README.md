@@ -16,8 +16,9 @@ HTML5
 CSS3 (Flexbox, Grid, Media Queries)
 
 🚀 How to Run:
-1) Clone the repo:
-   git clone https://github.com/your-username/netflix-clone.git
+1)Clone the repo:
+
+git clone https://github.com/your-username/netflix-clone.git
    
 2)Open index.html in your browser.
 
