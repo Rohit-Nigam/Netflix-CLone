@@ -1,26 +1,36 @@
-# Netflix-CLone
-This project is a frontend clone of the Netflix landing page, built using only HTML and CSS. It replicates the design, layout, and styling of the original Netflix homepage for educational purposes, without any JavaScript functionality.
+# 📺 Netflix Clone – HTML & CSS Only
 
+This is a **static clone of the Netflix landing page**, built using only **HTML5 and CSS3**. The goal of this project is to replicate Netflix’s UI for educational purposes and to practice responsive web design techniques.
 
-🔧 Features:
-  Fully responsive layout
-  Fixed top navigation bar
-  Hero section with background image
-  Call-to-action buttons styled like Netflix
-  Grid-based content sections
-  Hover effects and clean transitions
-  Footer with multiple columns and links
+---
 
-📁 Technologies Used:
-HTML5
-CSS3 (Flexbox, Grid, Media Queries)
+## 🔧 Features
 
-🚀 How to Run:
-1)Clone the repo:
+- Responsive layout (mobile-friendly)
+- Fixed navigation bar with Netflix logo
+- Hero section with background image and CTA buttons
+- Clean and modern design
+- Footer with multiple sections and links
+- Built using Flexbox, Grid, and Media Queries
 
-git clone https://github.com/your-username/netflix-clone.git
-   
-2)Open index.html in your browser.
+---
 
-📌 Disclaimer:
-This project is for educational and practice purposes only. It is not affiliated with, nor endorsed by, Netflix.
+## 📁 Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Grid, Transitions)
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/netflix-clone.git
+2. Navigate to the project folder:
+   '''bash
+   cd netflix-clone
+3. Open **index.html** in your browser.
+
+##📌 Note
+This project is purely for educational purposes and is not affiliated with or endorsed by Netflix.
