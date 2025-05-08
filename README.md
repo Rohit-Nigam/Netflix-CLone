@@ -28,9 +28,9 @@ This is a **static clone of the Netflix landing page**, built using only **HTML5
    ```bash
    git clone https://github.com/your-username/netflix-clone.git
 2. Navigate to the project folder:
-   '''bash
+   ```bash
    cd netflix-clone
 3. Open **index.html** in your browser.
 
-##📌 Note
+## 📌 Note
 This project is purely for educational purposes and is not affiliated with or endorsed by Netflix.
