@@ -8,7 +8,7 @@ This is a **static clone of the Netflix landing page**, built using only **HTML5
 
 - Responsive layout (mobile-friendly)
 - Fixed navigation bar with Netflix logo
-- Hero section with background image and CTA buttons
+- Centre section with background image and CTA buttons
 - Clean and modern design
 - Footer with multiple sections and links
 - Built using Flexbox, Grid, and Media Queries
