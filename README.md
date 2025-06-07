@@ -32,5 +32,9 @@ This is a **static clone of the Netflix landing page**, built using only **HTML5
    cd netflix-clone
 3. Open **index.html** in your browser.
 
+##  Web page preview:
+    ```
+    https://rohit-nigam.github.io/Netflix-CLone/
+
 ## 📌 Note
 This project is purely for educational purposes and is not affiliated with or endorsed by Netflix.
