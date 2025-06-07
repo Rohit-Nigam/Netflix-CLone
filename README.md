@@ -33,7 +33,6 @@ This is a **static clone of the Netflix landing page**, built using only **HTML5
 3. Open **index.html** in your browser.
 
 ##  Web page preview:
-    ```
     https://rohit-nigam.github.io/Netflix-CLone/
 
 ## 📌 Note
